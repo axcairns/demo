@@ -1,6 +1,6 @@
 {
   "customers": [
-    { "id": 1, "fireEvent": "true" },
-    { "id": 2, "fireEvent": "false" }
+    { "id": 1, "name": "Allan", "fireEvent": "true" },
+    { "id": 2, "name": "Chris", "fireEvent": "false" }
   ]
 }
